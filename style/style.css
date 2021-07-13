@@ -42,3 +42,21 @@
 .buttonBuy {
     margin-left: 30%;
 }
+
+.linkShoppingCart {
+    text-decoration:none;
+    color: black;
+}
+
+table {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid grey;
+}
+
+td {
+    border: 1px solid grey;
+}
