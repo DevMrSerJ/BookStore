@@ -51,6 +51,8 @@
 table {
     border: 1px solid grey;
     border-collapse: collapse;
+    text-align: center;
+    margin: 1%;
 }
 
 th {
@@ -59,4 +61,18 @@ th {
 
 td {
     border: 1px solid grey;
+}
+
+.imageCell {
+    width: 25%;
+}
+
+.imgProductShoppingCart{
+    width: 30%;
+    margin-left: 35%;
+}
+
+.blockButtonProduct {
+    margin-bottom: 7%;
+    margin-top: 7%;
 }
