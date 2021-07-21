@@ -1,4 +1,4 @@
-.upLine {
+﻿.upLine {
     display: flex;
 }
 
@@ -44,7 +44,7 @@
 }
 
 .linkShoppingCart {
-    text-decoration:none;
+    text-decoration: none;
     color: black;
 }
 
@@ -67,7 +67,14 @@ td {
     width: 25%;
 }
 
-.imgProductShoppingCart{
+.imgProduct {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.imgProductShoppingCart {
     width: 30%;
     margin-left: 35%;
 }

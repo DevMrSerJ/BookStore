@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Богатый пап, бедный папа",
+    "Author": "Роберт Кийосаки",
+    "PublishDate": "10.06.2010",
+    "ISBN": "7854796304582",
+    "Price": "1500",
+    "Count": "20",
+    "ImageUrl": "https://cdn1.ozone.ru/multimedia/1008879739.jpg"
+  },
+  {
+    "Name": "Самый богатый человек в Вавилоне",
+    "Author": "Джордж Клейсон",
+    "PublishDate": "02.03.1950",
+    "ISBN": "7854796304558",
+    "Price": "1000",
+    "Count": "25",
+    "ImageUrl": "https://cdn1.ozone.ru/multimedia/1026061231.jpg"
+  },
+  {
+    "Name": "Три товарища",
+    "Author": "Роман Ремарк",
+    "PublishDate": "10.10.1936",
+    "ISBN": "7854796307880",
+    "Price": "700",
+    "Count": "50",
+    "ImageUrl": "https://cdn1.ozone.ru/multimedia/c1200/1022126195.jpg"
+  },
+  {
+    "Name": "Правила инвестирования",
+    "Author": "Уоррен Баффетт",
+    "PublishDate": "12.04.2017",
+    "ISBN": "7854796347347",
+    "Price": "600",
+    "Count": "10",
+    "ImageUrl": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_415/23789575-dzheremi-miller-pravila-investirovaniya-uorrena-baffetta.jpg"
+  },
+  {
+    "Name": "Запуск",
+    "Author": "Джефф Уокер",
+    "PublishDate": "07.08.2015",
+    "ISBN": "9963796304582",
+    "Price": "300",
+    "Count": "28",
+    "ImageUrl": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_415/11104320-dzheff-uoker-zapusk-bystryy-start-dlya-vashego-biznesa.jpg"
+  }
+]
